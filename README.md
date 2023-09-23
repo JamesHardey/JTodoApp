@@ -34,7 +34,7 @@ git clone https://github.com/JamesHardey/JTodoApp.git
 - Start managing your tasks with the day-night theme toggle!
 
 ## Day-Night Theme Toggle
-The app's day-night theme toggle is located in the settings or preferences section. It allows you to switch between the light and dark themes according to your preference.
+The app's day-night theme toggle is located on the toolbar section. It allows you to switch between the light and dark themes according to your preference.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
@@ -50,8 +50,6 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 This app was created with love by **JamesHardey**.
-
-Special thanks to the Material Design team for providing design guidelines and inspiration.
 
 ## Contact
 If you have any questions or feedback, feel free to reach out to us:
