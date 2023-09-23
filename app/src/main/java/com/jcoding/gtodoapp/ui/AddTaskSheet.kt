@@ -18,7 +18,10 @@ import java.time.LocalDate
 import java.time.LocalTime
 
 
-class AddTaskSheet(var task: Task?, private val recyclerView: RecyclerView) : BottomSheetDialogFragment() {
+class AddTaskSheet(
+    var task: Task?,
+    private val recyclerView: RecyclerView
+) : BottomSheetDialogFragment() {
 
 
     private lateinit var binding: FragmentAddTaskSheetBinding
