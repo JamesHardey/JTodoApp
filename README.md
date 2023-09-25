@@ -5,13 +5,22 @@ A simple Todo App
 JTodoApp is a simple and elegant app that helps you manage your tasks with ease. You can add, edit, and delete tasks, mark them as completed, and view them in a clean and user-friendly interface. You can also switch between a light (day) and dark (night) theme to suit your mood and preference. The app is 100% free to download and play with no in-app purchases or deposits.
 
 ## Screenshots
+<p>
 <img src="screenshots/Screenshot_20230923_101941.png" width="200"/>
 <img src="screenshots/Screenshot_20230923_102003.png" width="200"/>
 <img src="screenshots/Screenshot_20230923_102040.png" width="200"/>
+</p>
+
+<p>
 <img src="screenshots/Screenshot_20230923_102251.png" width="200"/>
 <img src="screenshots/Screenshot_20230923_102257.png" width="200"/>
 <img src="screenshots/Screenshot_20230923_102302.png" width="200"/>
+</p>
+
+<p>
 <img src="screenshots/Screenshot_20230923_102325.png" width="200"/>
+</p>
+
 
 ### Dark Theme mode
 
