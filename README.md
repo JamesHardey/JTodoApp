@@ -45,8 +45,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Push your changes to your fork.
 - Create a pull request to merge your changes into the main repository.
 
-## License
-This project is licensed under the MIT License.
+[//]: # (## License)
+
+[//]: # (This project is licensed under the MIT License.)
 
 ## Acknowledgments
 This app was created with love by **JamesHardey**.
@@ -58,4 +59,4 @@ If you have any questions or feedback, feel free to reach out to us:
 
 Happy task managing with our Todo app! 🚀
 
-I hope you like it! Let me know if there's anything else I can do for you. 😊
+I hope you like it! Let me know if there's anything else I can do for you. 😊git
